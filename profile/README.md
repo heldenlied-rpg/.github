@@ -1,6 +1,6 @@
 # Heldenlied – Das Schicksal der Helden
 
-„Heldenlied – Das Schicksal der Helden“ ist ein Pen-&-Paper-Rollenspielsystem von Björn Alhäuser und Richard Westebbe. Spielwelt und Regelwerk orientieren sich an den realen Gegebenheiten um das Jahr 1400. Heldenlied bleibt dabei aber ein Fantasy-Rollenspiel.
+„Heldenlied – Das Schicksal der Helden“ ist ein Pen-&-Paper-Rollenspielsystem von Björn Alhäuser und Richard Westebbe. Spielwelt und Regelwerk orientieren sich an den realen Gegebenheiten des 15. Jahrhunderts. Heldenlied bleibt dabei aber ein Fantasy-Rollenspiel.
 
 Viele real existierende Kulturen dieser Zeit haben eine Entsprechung in der Spielwelt. Ihre Vorstellungen und Legenden von Magie, Monstern und anderen übernatürlichen Phänomenen sind in dieser Welt real.
 
@@ -33,5 +33,5 @@ Es gibt ein zweites Pen-&-Paper-Rollenspielsystem namens [Heldenlied](https://al
 
 ---
 
-*Heldenlied is a German-language tabletop RPG set in a world inspired by the year 1400,
+*Heldenlied is a German-language tabletop RPG set in a world inspired by the the 15th century,
 where the supernatural beliefs of every culture are real. Currently in development.*
